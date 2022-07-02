@@ -4,7 +4,7 @@ _A react app used to add quotes,view single quote, and comment on it. All of the
 
 ## Project URL
 
-[Upload Quotes 🧾](https://up-quote-load.netlify.app/)
+[Upload Quotes 🧾](https://upload-quotes.netlify.app/quotes)
 
 ## Getting Started with Create React App
 
@@ -47,7 +47,7 @@ Your app is ready to be deployed!
   useCallback()
 - Context API is used for app wide management.
 - React.createPortal() is used to port the element outside of the root element.
-- React.fragment() are used instead of conventional div soup.
+- React.Fragment() are used instead of conventional div soup.
 - React event management and lifting state up.
 - Firebase is used to collect and store the data.
 - React Router is used to route to different pages (single page applications) and also highlight the active page.
